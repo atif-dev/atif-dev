@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Atif
-- 👀 I’m interested in Web Development, Python🐍 and Software Testing.
+- 👀 I’m interested in Web Development💻, Python🐍 and Software Testing.
 - 💞️ I’m looking to collaborate on testing, Web development, and Python
 - 📫 How to reach me? Twitter: @atif_devs
 
