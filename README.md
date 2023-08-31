@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Atif
+- 👋 Hi, I’m Atif.
 - 👀 I’m interested in Web Development💻, Python🐍 and Software Testing🧪.
-- 💞️ I’m looking to collaborate on testing, Web development, and Python
+- 💞️ Currently learning .NET developemnt and React js,actively. I’m looking to collaborate on Web development, .NET and software testing.
 - 📫 How to reach me? Twitter: @atif_devs
 
 ### Skills
