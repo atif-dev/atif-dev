@@ -32,6 +32,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atif-dev"/>
 
+[![An image of @atifdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atifdev)](https://holopin.io/@atifdev)
+
 <!---
 atif-dev/atif-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
