@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Atif.
 - 👀 I’m interested in Web Development💻, Python🐍 and Software Testing🧪.
-- 💞️ Currently learning .NET developemnt and React js,actively. I’m looking to collaborate on Web development, .NET and software testing.
-- 📫 How to reach me? Twitter: @atif_devs
+- 💞️ Currently learning .NET development and Python language. I’m looking to collaborate on Web development, .NET, Python and software testing.
+- 📫 How to reach me? Gmail: ati1254@gmail.com
 
 ### Skills
 <p align="left">
