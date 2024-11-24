@@ -15,13 +15,6 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img width=36 height=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
 </p>
 
-### On Way to Learn...
-<p align="left">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="" target="_blank" rel="noreferrer"><img width=36 height=36 src="https://newrelic.com/sites/default/files/quickstarts/images/icons/dotnet-mvc-web-api--logo.svg"/>
-</a>
-</p>
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=atif-dev&show_icons=true"/>
 
