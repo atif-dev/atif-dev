@@ -19,6 +19,8 @@
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=atif-dev&show_icons=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=atif-dev"/>
