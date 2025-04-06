@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Atif.
 - 👀 I’m interested in Web Development💻 and Software Testing🧪.
 - 💞️ I’m looking to collaborate on quality Web development.
-<!-- - 📫 How to reach me? Gmail: ati1254@gmail.com -->
 
 ### Skills
 <p align="left">
