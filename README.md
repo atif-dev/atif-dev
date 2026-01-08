@@ -13,11 +13,11 @@
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=atif-dev&show_icons=true"/>
+<!--<img src="https://github-readme-stats.vercel.app/api?username=atif-dev&show_icons=true"/>-->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atif-dev"/>
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=atif-dev"/>-->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=atif-dev"/>
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=atif-dev"/>-->
 
 [![An image of @atifdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atifdev)](https://holopin.io/@atifdev)
 
